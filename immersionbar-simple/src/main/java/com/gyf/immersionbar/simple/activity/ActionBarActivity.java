@@ -1,8 +1,8 @@
 package com.gyf.immersionbar.simple.activity;
 
 import android.annotation.SuppressLint;
-import android.content.res.Configuration;
-import android.support.v7.app.ActionBar;
+
+import androidx.appcompat.app.ActionBar;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;

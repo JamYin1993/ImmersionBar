@@ -1,13 +1,12 @@
 package com.gyf.immersionbar.simple.fragment.dialog;
 
 import android.content.res.Configuration;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.view.Gravity;
 import android.view.ViewGroup;
 
 import com.gyf.immersionbar.ImmersionBar;
 import com.gyf.immersionbar.simple.R;
-import com.gyf.immersionbar.simple.activity.DialogActivity;
 
 import butterknife.BindView;
 

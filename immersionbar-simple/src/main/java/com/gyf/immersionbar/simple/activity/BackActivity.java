@@ -1,7 +1,7 @@
 package com.gyf.immersionbar.simple.activity;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.gyf.immersionbar.ImmersionBar;
 import com.gyf.immersionbar.simple.AppManager;

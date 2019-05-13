@@ -21,7 +21,7 @@ android {
 
 dependencies {
     compileOnly "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    compileOnly 'com.android.support:appcompat-v7:28.0.0'
+    compileOnly 'androidx.appcompat:appcompat:1.0.2'
     compileOnly project(':immersionbar')
 }
 
@@ -30,10 +30,10 @@ repositories {
 }
 
 publish {
-    userOrg = 'geyifeng'
-    groupId = 'com.gyf.immersionbar'
-    artifactId = 'immersionbar-ktx'
+    userOrg = 'jamyin'
+    groupId = 'com.yyj.immersionbar'
+    artifactId = 'iimmersionbar-ktx'
     publishVersion = "$immersionbar_version"
     desc = 'Android bar management'
-    website = 'https://github.com/gyf-dev/ImmersionBar'
+    website = 'https://github.com/JamYin1993/ImmersionBar'
 }

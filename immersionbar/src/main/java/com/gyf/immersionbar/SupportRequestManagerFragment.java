@@ -3,7 +3,7 @@ package com.gyf.immersionbar;
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.res.Configuration;
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 /**
  * @author geyifeng

@@ -1,6 +1,6 @@
 package com.gyf.immersionbar.simple.fragment.four;
 
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;

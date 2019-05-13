@@ -1,7 +1,7 @@
 package com.gyf.immersionbar.simple.fragment.dialog;
 
 import android.content.res.Configuration;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.view.Gravity;
 import android.view.ViewGroup;
 
